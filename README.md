@@ -8,3 +8,7 @@ This repo serves for Web team's Kaggle Challenge Part 1
 - Annusa Shanneb
 - Shobhit Verma
 - Weichen Zhang
+
+
+## Conclusions:
+
