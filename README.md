@@ -1,4 +1,4 @@
-# elile_kaggle_part1
+# elile_kaggle_part1_and_part2
 
 This repo serves for Web team's Kaggle Challenge Part 1
 
